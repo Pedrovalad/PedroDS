@@ -19,7 +19,7 @@ Passionate about leading teams and projects that enhance operational efficiency 
 ## Projetos:
 Conheça meus projetos em data science e análise de dados:
 
-
+* Análise Exploratória de Dados com Python: Airbnb em Santiago (Chile): https://bit.ly/3Uprh17
 
 ---
 

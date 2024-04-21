@@ -19,7 +19,7 @@ Passionate about leading teams and projects that enhance operational efficiency 
 ## Projetos:
 Conheça meus projetos em data science e análise de dados:
 
-* [Análise Exploratória de Dados com Python: Airbnb em Santiago (Chile)]([https://github.com/Pedrovalad/Pedro_Valadares_DS/blob/main/Airbnb%2C_Santiago%2C_An%C3%A1lise_Explorat%C3%B3ria.ipynb](https://github.com/Pedrovalad/Pedro_Valadares_DS/blob/main/Airbnb_Santiago%2C_An%C3%A1lise_Explorat%C3%B3ria.ipynb))
+* [Análise Exploratória de Dados com Python: Airbnb em Santiago (Chile)]([https://github.com/Pedrovalad/Pedro_Valadares_DS/blob/main/Airbnb%2C_Santiago%2C_An%C3%A1lise_Explorat%C3%B3ria.ipynb](https://github.com/Pedrovalad/Pedro_Valadares_DS/blob/main/Airbnb_Santiago%2C_An%C3%A1lise_Explorat%C3%B3ria.ipynb)
 
 ---
 

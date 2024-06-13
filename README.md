@@ -19,7 +19,7 @@ Passionate about leading teams and projects that enhance operational efficiency 
 ## Projetos:
 Conheça meus projetos em data science e análise de dados:
 
-* [Linguística Computacional na prática: análise estística e modelos probabilísticos de lingaugem, avaliação de relevância de expressões (TF, IDF e TF-IDF), implementação de stemmer, concordanciador, previsor de palavras com N-Gramas e detector de spams com classificador bayesiano ingênuo.] (https://github.com/Pedrovalad/Pedro_Valadares_DS/blob/main/Projeto_Linguistica_Computacional.ipynb)
+* [Linguística Computacional na prática: análise estística e modelos probabilísticos de lingaugem, avaliação de relevância de expressões (TF, IDF e TF-IDF), implementação de stemmer, concordanciador, previsor de palavras com N-Gramas e detector de spams com classificador bayesiano ingênuo.](https://github.com/Pedrovalad/Pedro_Valadares_DS/blob/main/Projeto_Linguistica_Computacional.ipynb)
 * [Análise Exploratória de Dados com Python: Airbnb em Santiago (Chile)](https://github.com/Pedrovalad/Pedro_Valadares_DS/blob/main/Airbnb_Santiago%2C_An%C3%A1lise_Explorat%C3%B3ria.ipynb)
 
 
